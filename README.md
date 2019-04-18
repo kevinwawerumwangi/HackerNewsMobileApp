@@ -8,4 +8,6 @@ Hacker News Api.
 
 <img src="flutter_01.png" width="200" height="300">       <img src="flutter_02.png" width="200" height="300">
 
+# Getting started
 
+Download the flutter sdk <a href = "https://flutter.dev/docs/get-started/install">Here</a>. Follow the steps provided and you are good to gooooo.
