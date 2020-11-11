@@ -1,5 +1,3 @@
-Implementaion of hacker news API
-
 # FlutterHackerNewsMobileApp
 
 This application is an implementation of <a href = "https://github.com/HackerNews/API">Hacker News Api</a>.
